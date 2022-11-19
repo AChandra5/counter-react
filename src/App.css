@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: 'Comforter Brush', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+background: pink;
+padding: 25px;
+border-radius: 20px;
+width:500px;
+height: 150px;
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+h1{
+  font-size: 6.2em;
+  margin-bottom: 0;
+  padding: 0;
+  margin-top: 0;
+}
+
